@@ -4,4 +4,4 @@
 
 | Paper | Contributors | Links |
 | --- | --- | --- |
-| Example Paper | [Manisha](https://github.com/manishasena) | [Paper PDF](https://papers.nips.cc/paper/7791-algorithmic-assurance-an-active-approach-to-algorithmic-testing-using-bayesian-optimisation) |
+| Example Paper | [Manisha](https://github.com/manishasena) | [Paper PDF](https://papers.nips.cc/paper/7791-algorithmic-assurance-an-active-approach-to-algorithmic-testing-using-bayesian-optimisation) [Living Code](https://github.com/manishasena/Udacity_Deep_Learning)|
